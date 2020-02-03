@@ -61,3 +61,9 @@ h1, h2, h3, h4 {
 [data-theme="dark"] .bg-black {
   background-color: #eee !important;
 }
+[data-theme="dark"] .post-form textarea {
+    background-color: #111
+}
+[data-theme="dark"] .post-form input {
+    background-color: #111
+}
